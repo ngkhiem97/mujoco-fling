@@ -1,4 +1,4 @@
-# mujoco-arm
+# mujoco-fling
 
 | ![](figures/grasp-fling-0.gif) | ![](figures/grasp-fling-1.gif) | ![](figures/grasp-fling-2.gif) |
 
